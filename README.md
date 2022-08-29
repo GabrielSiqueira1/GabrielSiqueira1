@@ -86,7 +86,7 @@ public class Profile{
 
 ---------
 
-<a href="https://github.com/GabrielSiqueira1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSiqueira1&layout=compact&theme=cobalt&hide_border=true" /></a> |
+<a href="https://github.com/GabrielSiqueira1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSiqueira1&layout=compact&theme=cobalt&hide_border=true" /></a>
 
 ---------
 
