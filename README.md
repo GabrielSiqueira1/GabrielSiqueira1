@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - :notebook: Computer Enginner Student at Federal Center for Technological Education of Minas Gerais <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" width="30">
-- 🔭 Quantum Computing Research at Federal Center for Technological Education of Minas Gerais <img src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" width="30">
+- 🔭 Quantum Computing 
+Researcher at Federal Center for Technological Education of Minas Gerais <img src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" width="30">
 
 ---
 
