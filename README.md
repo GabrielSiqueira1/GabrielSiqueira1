@@ -25,8 +25,11 @@ Researcher at Federal Center for Technological Education of Minas Gerais <img sr
   <a href = "mailto:gabrielsiqueira2765@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielsiqueira25@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-siqueira-14922a246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  
  
 </div>
+
+
 
 ### <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/tenor.gif" width="50"> A little more about me...  
 
@@ -102,3 +105,4 @@ public class Profile{
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielSiqueira1&repo=AOC_MIPS-Unicycle-4bits&theme=dark" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=GabrielSiqueira1)
