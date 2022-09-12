@@ -105,4 +105,3 @@ public class Profile{
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielSiqueira1&repo=AOC_MIPS-Unicycle-4bits&theme=dark" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=GabrielSiqueira1)
