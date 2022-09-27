@@ -1,23 +1,7 @@
-### Hi, I'm Gabriel Siqueira! <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50"></h2>
+### Olá! Eu sou Gabriel e atualmente sou: <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50"></h2>
 
-<!--
-**GabrielSiqueira1/GabrielSiqueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- :notebook: Computer Enginner Student at Federal Center for Technological Education of Minas Gerais <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" width="30">
-- 🔭 Quantum Computing 
-Researcher at Federal Center for Technological Education of Minas Gerais <img src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" width="30">
+- :notebook: Estudante de Engenharia de Computação no Centro Federal de Educação Tecnológica de Minas Gerais <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" width="30">
+- 🔭 Pesquisador em controle quântico no Centro Federal de Educação Tecnológica de Minas Gerais <img src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" width="30">
 
 ---
 
@@ -28,80 +12,3 @@ Researcher at Federal Center for Technological Education of Minas Gerais <img sr
   
  
 </div>
-
-
-
-### <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/tenor.gif" width="50"> A little more about me...  
-
-```java
-public class Main{
-  public static void main (String[] args){
-    Profile gabriel = new Profile();
-    gabriel.addEncodeAttributes("R");
-    gabriel.addEncodeAttributes("C");
-    gabriel.addEncodeAttributes("Java");
-    gabriel.addEncodeAttributes("HTML, CSS, JavaScript");
-    gabriel.addEncodeAttributes("Verilog");
-
-    gabriel.addTools("Node");
-    gabriel.addTools("OpenGL");
-
-    gabriel.addLearning("JavaScript, React");
-    gabriel.addLearning("JavaScript, TypeScript");
-    gabriel.addLearning("Quantum Mechanics");
-  }
-}
-```
-
-```java
-import java.util.ArrayList;
-import java.util.List;
-import java.util.HashMap;
-
-
-public class Profile{
-  private int list;
-  private HashMap<Integer, String> code;
-  private ArrayList<String> tools;
-  private List<String> learning;
-
-  public Profile(){
-    list = 0;
-    code = new HashMap<>();
-    tools = new ArrayList<>();
-    learning = new ArrayList<>();
-  }
-
-  public void addEncodeAttributes(String attribute){
-    code.put(list, attribute);
-    list++;
-  }
-
-  public void addTools(String attribute){
-    tools.add(attribute);
-  }
-
-  public void addLearning(String pratice){
-    learning.add(pratice);
-  }
-}
-
-```
-
----------
-<div align="center">
-  <a href="https://github.com/GabrielSiqueira1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSiqueira1&layout=&theme=cobalt&hide_border=true" /></a>
-</div>
-
----------
-
-#### Repositories
-
-
-<a href="https://github.com/GabrielSiqueira1/Banco-de-dados-amazonense">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielSiqueira1&repo=Banco-de-dados-amazonense&theme=dark" />
-</a>
-<a href="https://github.com/GabrielSiqueira1/AOC_MIPS-Unicycle-4bits">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielSiqueira1&repo=AOC_MIPS-Unicycle-4bits&theme=dark" />
-</a>
-
