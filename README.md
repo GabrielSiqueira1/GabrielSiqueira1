@@ -22,13 +22,12 @@ I'm a Computer Engineer and Cybersecurity student at CEFET-MG and XP Educação.
 ⚛️ Optimal Control, Real Analysis, Topology
 
 ---
-<div align="center">
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="30"></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="30"></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30"></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="30"></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"></a>
+### Projects
 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"> ~~~ Banco de dados amazonense and Instyle Medica
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="30"> ~~~ C Programming Language and Operational Systems
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30"> ~~~ Model Predictive Control on Quantum Systems
+
 
