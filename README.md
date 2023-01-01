@@ -28,5 +28,7 @@ I'm a Computer Engineer and Cybersecurity student at CEFET-MG and XP Educação.
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="30"></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30"></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="30"></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"></a>
+
 </div>
 
