@@ -1,7 +1,9 @@
 ### Hi! I'm Gabriel <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50"></h2>
 
+<div align='justify'>
 I'm a Computer Engineer and Cybersecurity student at CEFET-MG and XP Educação. I'm fascinated in mathematics, dynamic system control, architecture, data structure and quantum systems. Always trying to learn something 🔭. Also, I'm a amateur Full Stack Developer with Banco de Dados Amazonense (PHP) and InStyle Médica projects (PHP + Javascript).
-
+</div>
+  
 ---
 
 <div> 
@@ -17,5 +19,5 @@ I'm a Computer Engineer and Cybersecurity student at CEFET-MG and XP Educação.
 
 📖 PHP Laravel, C#, Javascript (React JS, Next JS)
 
-📚 Optimal Control, Real Analysis, Topology
+⚛️ Optimal Control, Real Analysis, Topology
 
