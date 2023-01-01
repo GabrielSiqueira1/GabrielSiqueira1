@@ -17,7 +17,17 @@ I'm a Computer Engineer and Cybersecurity student at CEFET-MG and XP Educação.
 
 ### I'm Learning <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" width="50">
 
-📖 PHP Laravel, C#, Javascript (React JS, Next JS)
+📖 PHP Laravel, C#, Javascript (React JS, Next JS), Docker
 
 ⚛️ Optimal Control, Real Analysis, Topology
+
+---
+<div>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="30"></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="30"></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30"></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="30"></a>
+  
+</div>
 
