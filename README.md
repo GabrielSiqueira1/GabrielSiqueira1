@@ -17,17 +17,21 @@ I'm a Computer Engineer and Cybersecurity student at CEFET-MG and XP Educação.
 
 ### I'm Learning <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" width="50">
 
-📖 PHP Laravel, C#, Javascript (React JS, Next JS), Docker
+📖 PHP Laravel, C#, Javascript (React JS, Next JS), Docker, Vim
 
 ⚛️ Optimal Control, Real Analysis, Topology
 
 ---
-### Projects
+### Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"> ~~~ Banco de dados amazonense and Instyle Medica
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="30"> ~~~ C Programming Language and Operational Systems
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30"> ~~~ Model Predictive Control on Quantum Systems
-
-
+<div align = "center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="30">
+</div>
