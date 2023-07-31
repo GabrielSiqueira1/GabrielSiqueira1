@@ -17,7 +17,7 @@ I'm a Computer Engineer and Cybersecurity student at CEFET-MG and XP Educação.
 
 ### I'm Learning <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" width="50">
 
-📖 Neovim, Javascript, Python
+📖 Lua, Javascript, Python, Docker
 
 ⚛️ Open Quantum Systems, Lyapunov Control, Neural Computation
 
